@@ -1,4 +1,25 @@
-### Hi there 👋
+# Sedrick Bouknight
+**`Recent Graduate (Interested in AI & Computer Vision)`**
+
+I'm a recent graduate from the University of Arizona with a passion for artificial intelligence and computer vision. Currently working towards a career as an AI Research Engineer, I strive to explore cutting-edge technologies and contribute to the advancement of AI. My GitHub profile showcases my code projects, focusing on topics such as machine learning, deep learning, and computer vision. With a strong foundation in programming and a drive for innovation, I'm dedicated to pushing the boundaries of AI and its applications.
+
+### Languages and Tools
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<br />
+
+
+### Stats
+
+![Sedrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=slbouknight&show_icons=true&theme=gruvbox)
 
 <!--
 **slbouknight/slbouknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
