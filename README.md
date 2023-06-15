@@ -13,11 +13,6 @@ I'm a recent graduate from the University of Arizona with a passion for artifici
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <br />
 
-
-### Stats
-
-![Sedrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=slbouknight&show_icons=true&theme=gruvbox)
-
 <!--
 **slbouknight/slbouknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
