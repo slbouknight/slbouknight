@@ -1,7 +1,7 @@
 # Sedrick Bouknight
-**`Recent Graduate (Interested in AI & Computer Vision)`**
+**`Recent Graduate (Interested in AI & Software Development)`**
 
-I'm a recent graduate from the University of Arizona with a passion for artificial intelligence and computer vision. Currently working towards a career as an AI Research Engineer, I strive to explore cutting-edge technologies and contribute to the advancement of AI. My GitHub profile showcases my code projects, focusing on topics such as machine learning, deep learning, and computer vision. With a strong foundation in programming and a drive for innovation, I'm dedicated to pushing the boundaries of AI and its applications.
+I'm a recent graduate from the University of Arizona with a passion for artificial intelligence. Currently working towards a career as an AI Research Engineer, I strive to explore cutting-edge technologies and contribute to the advancement of AI. My GitHub profile showcases my code projects, focusing on topics such as machine learning, deep learning, computer vision, and natural language processing. With a strong foundation in programming and a drive for innovation, I'm dedicated to pushing the boundaries of AI and its applications.
 
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
